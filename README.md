@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 - **Technologies**: Python, Pandas, Jupyter Notebook.
 - **Features**: Data cleaning, analysis, and visualization to uncover insights about job trends.
 - **Repository Link**: [GitHub Repository](https://github.com/satyam26en/JOB)
-- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7201937061178712064/)
+
 
 #### 🛍️ E-Commerce Sales Analysis
 - **Description**: Conducted an in-depth analysis of e-commerce sales data to optimize product placement and enhance sales strategies.
