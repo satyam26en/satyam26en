@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 
 #### 📅 TIME_TABLE_KIIT
 - **Description**: A Streamlit application that generates personalized class timetables for students based on their roll numbers.
-- **Technologies**: Python,NumPy,Pandas Streamlit, Plotly.
+- **Technologies**: Python, Streamlit, Plotly.
 - **Features**: Combines data from core and elective subjects to create a visual timetable.
 - **Repository Link**: [GitHub Repository](https://github.com/satyam26en/TIME_TABLE_KIIT)
 - **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7222148540087590913/)
@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 - **Technologies**: Python, Pandas, Jupyter Notebook.
 - **Features**: Data cleaning, analysis, and visualization to uncover insights about job trends.
 - **Repository Link**: [GitHub Repository](https://github.com/satyam26en/JOB)
-
+- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7201937061178712064/)
 
 #### 🛍️ E-Commerce Sales Analysis
 - **Description**: Conducted an in-depth analysis of e-commerce sales data to optimize product placement and enhance sales strategies.
-- **Technologies**: Power BI.
+- **Technologies**: Python, SQL, Power BI.
 - **Key Achievements**:
   - Gathered and cleaned transactional data from point-of-sale systems.
   - Developed a performance monitoring dashboard using Power BI to track sales performance.
@@ -63,6 +63,7 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 **Developer Tools**:
 - VS Code
 - Git
+- AWS
 
 **Technologies/Frameworks**:
 - Streamlit
@@ -74,6 +75,8 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 - Data Science
 - Data Analysis
 - Machine Learning
+- Data Engineering
+- Web Scraping
 - Data Visualization
 - Data-Driven Decision Making
 - Exploring New Technologies and Tools
@@ -102,3 +105,4 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam26en&" alt="satyam26en" /></p>
 
 ---
+
