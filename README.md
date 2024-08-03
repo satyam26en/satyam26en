@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 
 #### 📅 TIME_TABLE_KIIT
 - **Description**: A Streamlit application that generates personalized class timetables for students based on their roll numbers.
-- **Technologies**: Python, Streamlit, Plotly.
+- **Technologies**: Python,NumPy,Pandas Streamlit, Plotly.
 - **Features**: Combines data from core and elective subjects to create a visual timetable.
 - **Repository Link**: [GitHub Repository](https://github.com/satyam26en/TIME_TABLE_KIIT)
 - **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7222148540087590913/)
