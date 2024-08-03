@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 
 #### 🛍️ E-Commerce Sales Analysis
 - **Description**: Conducted an in-depth analysis of e-commerce sales data to optimize product placement and enhance sales strategies.
-- **Technologies**: Python, SQL, Power BI.
+- **Technologies**: Power BI.
 - **Key Achievements**:
   - Gathered and cleaned transactional data from point-of-sale systems.
   - Developed a performance monitoring dashboard using Power BI to track sales performance.
