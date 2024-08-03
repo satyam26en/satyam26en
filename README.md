@@ -1,23 +1,104 @@
-
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">"Passionate Data Science Student | Exploring the Power of Data and Algorithms"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam26en&label=Profile%20views&color=0e75b6&style=flat" alt="satyam26en" /> </p>
+Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT University with a deep interest in data science, data analysis, and machine learning. My goal is to leverage data-driven insights to solve complex problems and drive innovation.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Projects
+
+#### 📅 TIME_TABLE_KIIT
+- **Description**: A Streamlit application that generates personalized class timetables for students based on their roll numbers.
+- **Technologies**: Python, Streamlit, Plotly.
+- **Features**: Combines data from core and elective subjects to create a visual timetable.
+- **Repository Link**: [GitHub Repository](https://github.com/satyam26en/TIME_TABLE_KIIT)
+- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7222148540087590913/)
+
+#### 🧑‍🎓 Student Information System
+- **Description**: A Streamlit application for managing and displaying student information.
+- **Technologies**: Python, Pandas, Streamlit.
+- **Features**: Displays student data from CSV files, includes functionalities like data filtering and visualization.
+- **Repository Link**: [GitHub Repository](https://github.com/satyam26en/Student-Information-System)
+- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7222148540087590913/)
+
+#### 💼 JOB Data Analysis
+- **Description**: Data analysis project focusing on job data.
+- **Technologies**: Python, Pandas, Jupyter Notebook.
+- **Features**: Data cleaning, analysis, and visualization to uncover insights about job trends.
+- **Repository Link**: [GitHub Repository](https://github.com/satyam26en/JOB)
+- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7201937061178712064/)
+
+#### 🛍️ E-Commerce Sales Analysis
+- **Description**: Conducted an in-depth analysis of e-commerce sales data to optimize product placement and enhance sales strategies.
+- **Technologies**: Python, SQL, Power BI.
+- **Key Achievements**:
+  - Gathered and cleaned transactional data from point-of-sale systems.
+  - Developed a performance monitoring dashboard using Power BI to track sales performance.
+- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7201937061178712064/)
+
+#### ☕ Coffee Shop Sales Analysis
+- **Description**: Analyzed coffee shop sales data to provide comprehensive insights into sales performance.
+- **Technologies**: MS Excel.
+- **Key Achievements**:
+  - Cleaned and preprocessed raw sales data.
+  - Created an interactive dashboard for comprehensive sales insights.
+- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7192612228620079104/)
+
+---
+
+### 🛠️ Skills
+
+**Programming Languages**:
+- Python
+- C
+- SQL
+
+**Data Analysis Tools**:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+
+**Developer Tools**:
+- VS Code
+- Git
+
+**Technologies/Frameworks**:
+- Streamlit
+- Plotly
+
+---
+
+### 🌱 Interests
+- Data Science
+- Data Analysis
+- Machine Learning
+- Data Visualization
+- Data-Driven Decision Making
+- Exploring New Technologies and Tools
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/satyam kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyam-kumar-582b7b26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/satyam26en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyam26en" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Email**: [satyamkumar26en@gmail.com](mailto:satyamkumar26en@gmail.com)
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam26en&label=Profile%20views&color=0e75b6&style=flat" alt="satyam26en" /> </p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam26en&show_icons=true&locale=en&layout=compact" alt="satyam26en" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam26en&show_icons=true&locale=en" alt="satyam26en" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam26en&" alt="satyam26en" /></p>
->
+
+---
