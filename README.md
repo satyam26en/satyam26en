@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 - **Technologies**: Python, Pandas, Jupyter Notebook.
 - **Features**: Data cleaning, analysis, and visualization to uncover insights about job trends.
 - **Repository Link**: [GitHub Repository](https://github.com/satyam26en/JOB)
-- **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7201937061178712064/)
 
 #### 🛍️ E-Commerce Sales Analysis
 - **Description**: Conducted an in-depth analysis of e-commerce sales data to optimize product placement and enhance sales strategies.
@@ -63,7 +62,6 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 **Developer Tools**:
 - VS Code
 - Git
-- AWS
 
 **Technologies/Frameworks**:
 - Streamlit
@@ -75,8 +73,6 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 - Data Science
 - Data Analysis
 - Machine Learning
-- Data Engineering
-- Web Scraping
 - Data Visualization
 - Data-Driven Decision Making
 - Exploring New Technologies and Tools
@@ -93,16 +89,16 @@ Welcome to my GitHub profile! I am a third-year Computer Science student at KIIT
 - **Email**: [satyamkumar26en@gmail.com](mailto:satyamkumar26en@gmail.com)
 
 ---
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam26en&label=Profile%20views&color=0e75b6&style=flat" alt="satyam26en" /> </p>
 
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam26en&show_icons=true&locale=en&layout=compact" alt="satyam26en" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam26en&show_icons=true&locale=en" alt="satyam26en" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam26en&" alt="satyam26en" /></p>
 
 ---
+
+
 
